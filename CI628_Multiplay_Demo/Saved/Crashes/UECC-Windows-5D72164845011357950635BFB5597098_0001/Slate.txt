@@ -1,0 +1,2 @@
+Thread: Game
+Context:'Paint' Type:'SWindow' Tag:'None' Location:'C:\UE5\Engine\Source\Editor\MainFrame\Private\MainFrameModule.cpp_197'
